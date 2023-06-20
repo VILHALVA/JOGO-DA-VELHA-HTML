@@ -27,7 +27,3 @@ Para jogar o Jogo da Velha, siga as instruções abaixo:
 5. Clique nas células do tabuleiro para fazer suas jogadas.
 6. O jogo irá alternar automaticamente entre os jogadores e verificar se alguém venceu ou se houve um empate.
 7. Após o término do jogo, você pode reiniciar clicando no botão "Limpar" para começar uma nova partida.
-
-### 🧧Contribuindo:
-Atualmente, o projeto não aceita contribuições externas. No entanto, você é livre para explorar o código-fonte e utilizá-lo como referência para criar suas próprias versões do Jogo da Velha ou implementar funcionalidades adicionais.
-Agradecemos por seu interesse no projeto Jogo da Velha! Divirta-se jogando e experimentando com o código. Se tiver alguma dúvida ou sugestão, fique à vontade para entrar em contato.
