@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>JOGO DA VELHA</title>
+  <link rel="shortcut icon" href="../../01_MENU/MIDIAS/ICONE CSS.ico" type="image/x-icon">
+  <link rel="stylesheet" type="text/css" href="JOGO DA VELHA.css">
+</head>
+<body>
+  <div class="container">
+    <h1>JOGO DA VELHA</h1>
+    <div id="board" class="board">
+      <div class="cell" onclick="placeMark(0)"></div>
+      <div class="cell" onclick="placeMark(1)"></div>
+      <div class="cell" onclick="placeMark(2)"></div>
+      <div class="cell" onclick="placeMark(3)"></div>
+      <div class="cell" onclick="placeMark(4)"></div>
+      <div class="cell" onclick="placeMark(5)"></div>
+      <div class="cell" onclick="placeMark(6)"></div>
+      <div class="cell" onclick="placeMark(7)"></div>
+      <div class="cell" onclick="placeMark(8)"></div>
+    </div>
+    <div id="result" class="result"></div>
+    <div id="mode-selection" class="mode-selection">
+      <button onclick="startGame(true)">Jogar Sozinho</button>
+      <button onclick="startGame(false)">Jogar com Alguém</button>
+    </div>
+    <button onclick="resetBoard()">Limpar</button>
+  </div>
+  <script src="JOGO DA VELHA.js"></script>
+</body>
+</html>
