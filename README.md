@@ -4,7 +4,7 @@
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
 [![GitHub Repo stars](https://img.shields.io/badge/MEUS-CURSOS-03A9F4?logo=github)](https://github.com/VILHALVA?tab=repositories&q=CURSO&type=public&language=&sort=) <br>
 
-<img src="https://cdn-icons-png.flaticon.com/256/2241/2241351.png" align="center" width="250"> <br>
+<img src="FOTO.png" align="center" width="300"> <br>
 
 ## 🎃DESCRIÇÃO:
 O "Jogo da Velha" é um projeto que consiste em um jogo clássico de tabuleiro para dois jogadores. Neste repositório, o jogo foi implementado utilizando tecnologias web.
