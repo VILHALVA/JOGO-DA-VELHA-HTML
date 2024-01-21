@@ -31,7 +31,7 @@ cd JOGO-DA-VELHA
 ```bash
 unzip JOGO-DA-VELHA.zip
 ```
-2. Abra o arquivo `JOGO.html` em seu navegador de preferência.
+2. Abra o arquivo `JOGO DA VELHA.html` em seu navegador de preferência.
 3. A página do Jogo da Velha será carregada.
 4. Selecione o modo de jogo clicando no botão "Jogar Sozinho" ou "Jogar com Alguém".
 5. Clique nas células do tabuleiro para fazer suas jogadas.
