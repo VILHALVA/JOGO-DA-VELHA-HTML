@@ -1,7 +1,7 @@
 # PROJETO-JOGO-DA-VELHA
 🎈JOGO DA VELHA COM HTML, CSS E JS.
 
-<img src="FOTO.png" align="center" width="500"> <br>
+<img src="FOTO.png" align="center" width="300"> <br>
 
 ## DESCRIÇÃO:
 O "Jogo da Velha" é um projeto que consiste em um jogo clássico de tabuleiro para dois jogadores. Neste repositório, o jogo foi implementado utilizando tecnologias web.
