@@ -1,15 +1,10 @@
 # PROJETO-JOGO-DA-VELHA
 🎈JOGO DA VELHA COM HTML, CSS E JS.
 
-[![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
-[![GitHub Repo stars](https://img.shields.io/badge/MEUS-CURSOS-03A9F4?logo=github)](https://github.com/VILHALVA?tab=repositories&q=CURSO&type=public&language=&sort=) <br>
+<img src="FOTO.png" align="center" width="500"> <br>
 
-<img src="FOTO.png" align="center" width="300"> <br>
-
-## 🎃DESCRIÇÃO:
+## DESCRIÇÃO:
 O "Jogo da Velha" é um projeto que consiste em um jogo clássico de tabuleiro para dois jogadores. Neste repositório, o jogo foi implementado utilizando tecnologias web.
-
-### 🎑Funcionalidades:
 O projeto possui as seguintes funcionalidades:
 - **Iniciar o jogo**: Ao carregar a página, é possível selecionar o modo de jogo entre "Jogar Sozinho" e "Jogar com Alguém".
 - **Escolher células**: Cada célula do tabuleiro é clicável e representa uma jogada. Os jogadores podem clicar nas células para marcar seu movimento.
@@ -18,12 +13,31 @@ O projeto possui as seguintes funcionalidades:
 - **Verificar empate**: Se todas as células forem preenchidas e não houver um vencedor, o jogo é considerado um empate.
 - **Reiniciar o jogo**: Após o término do jogo (vitória ou empate), é possível reiniciar o jogo clicando no botão "Limpar". O tabuleiro é limpo, e os jogadores podem iniciar uma nova partida.
 
-### 🎁Como usar o Jogo da Velha?
-Para jogar o Jogo da Velha, siga as instruções abaixo:
-1. Clone este repositório em sua máquina local ou faça o download dos arquivos.
+## COMO USAR?
+1. Clone o repositório para o seu sistema local:
+
+```bash
+git clone https://github.com/VILHALVA/JOGO-DA-VELHA.git
+```
+
+* Navegue até o diretório do projeto.
+
+```bash
+cd JOGO-DA-VELHA
+```
+
+* Descompacte o arquivo ZIP (se você baixou manualmente):
+
+```bash
+unzip JOGO-DA-VELHA.zip
+```
 2. Abra o arquivo `JOGO.html` em seu navegador de preferência.
 3. A página do Jogo da Velha será carregada.
 4. Selecione o modo de jogo clicando no botão "Jogar Sozinho" ou "Jogar com Alguém".
 5. Clique nas células do tabuleiro para fazer suas jogadas.
 6. O jogo irá alternar automaticamente entre os jogadores e verificar se alguém venceu ou se houve um empate.
 7. Após o término do jogo, você pode reiniciar clicando no botão "Limpar" para começar uma nova partida.
+
+## CREDITOS:
+- [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
+
