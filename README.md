@@ -1,4 +1,4 @@
-# PROJETO-JOGO-DA-VELHA
+# JOGO DA VELHA - HTML
 🎈JOGO DA VELHA COM HTML, CSS E JS.
 
 <img src="FOTO.png" align="center" width="300"> <br>
@@ -13,31 +13,12 @@ O projeto possui as seguintes funcionalidades:
 - **Verificar empate**: Se todas as células forem preenchidas e não houver um vencedor, o jogo é considerado um empate.
 - **Reiniciar o jogo**: Após o término do jogo (vitória ou empate), é possível reiniciar o jogo clicando no botão "Limpar". O tabuleiro é limpo, e os jogadores podem iniciar uma nova partida.
 
-## COMO USAR?
-1. Clone o repositório para o seu sistema local:
-
-```bash
-git clone https://github.com/VILHALVA/JOGO-DA-VELHA.git
-```
-
-* Navegue até o diretório do projeto.
-
-```bash
-cd JOGO-DA-VELHA
-```
-
-* Descompacte o arquivo ZIP (se você baixou manualmente):
-
-```bash
-unzip JOGO-DA-VELHA.zip
-```
-2. Abra o arquivo `JOGO DA VELHA.html` em seu navegador de preferência.
-3. A página do Jogo da Velha será carregada.
-4. Selecione o modo de jogo clicando no botão "Jogar Sozinho" ou "Jogar com Alguém".
-5. Clique nas células do tabuleiro para fazer suas jogadas.
-6. O jogo irá alternar automaticamente entre os jogadores e verificar se alguém venceu ou se houve um empate.
-7. Após o término do jogo, você pode reiniciar clicando no botão "Limpar" para começar uma nova partida.
+## NÃO SABE?
+- Entendemos que para manipular arquivos em `HTML`, `CSS` e outras linguagens relacionadas, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos cursos gratuitos disponíveis:
+* [CURSO DE HTML E CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
+* [CURSO DE JAVASCRIPT](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
+* [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
 ## CREDITOS:
 - [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
-
+- [ESTÁ DISPONIVEL NO SITE](https://vilhalva.github.io/STYLER/STYLER.html)
